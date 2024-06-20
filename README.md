@@ -1,5 +1,2 @@
-# Python_Project_QrCodeGenerator
-# Text_To_Speech_Using_Python
-# Text_To_Speech_Using_Python
-# Text_To_Speech_Using_Python
+
 # QrCodeGenerator_Using_Python
